@@ -1,0 +1,205 @@
+#wall{
+    padding-left: 22%;
+    padding-right: 22%;
+    font-style: italic;
+    font-size: larger;
+}
+#op{
+   text-align: left;
+   background-color:rgb(23, 117, 185);
+   color: white;
+}
+/* .azadi{
+    text-align: center;
+   padding-right: 18%;
+   font-style: normal;
+   margin-left: 4%;
+}
+ .bbc{
+padding-right: 13%;
+margin-right: 38%;
+} 
+/* .sadi{
+    padding-left: 13%;
+    margin-left: 38%;
+    padding-bottom: 25%;
+}
+.kalan{
+    padding-left: 10%;
+    margin-left: 38%;
+    padding-bottom: 0.5%;
+    padding-right: 5%;
+}
+#horn{
+    margin-left: 38%;
+    padding-left: 7%;
+    background-color:rgb(23, 117, 185);
+}
+#avatar{
+   padding-left: 7%;
+   margin-left: 52%;
+   background-color: gray;
+} */
+/* .azadi{
+padding-left: 39%;
+    font-style: normal;
+}
+#kalan{
+
+margin-right: 38%;
+   
+} */ 
+.bbc{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+    
+    }    
+
+.azadi{
+padding-left: 39%;
+    font-style: normal;
+}
+.horn{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+  padding-bottom: 5%;
+}
+#horn{
+    margin-left: 38%;
+    /* padding-left: 13%; */
+    width: 24%;
+    /* justify-content: start; */
+    margin-right: 30%;
+    /* display: flex; */
+    text-align: start;
+ font-size: larger;
+}
+#you{
+    margin-left: 38%;
+    padding-left: 4%;
+     width: 11%;
+    justify-content: center; 
+    margin-right: 30%;
+ display: flex;  
+text-align: center;
+    color: white;
+ font-size: medium;
+ background-color:rgb(23, 117, 185);
+ 
+
+}
+#money{
+    padding-left: 20%;
+   padding-right: 26%;
+   margin-left: 20%;
+   margin-right: 36%;
+}
+
+#jj{
+    margin-left: 51%;
+   padding-right: 1.85%;
+     width: 11%;
+     justify-content: center;  
+    margin-right: 30%;
+ display: flex;  
+ text-align: center;
+    color: gray;
+ font-size: medium;
+margin-top: -2.23%;
+}
+#home{
+    margin-left: 38.5%;
+    margin-right: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: medium;
+ color: white;
+ background-color:rgb(23, 117, 185);
+}
+.every{
+    color: white;
+    background-color:rgb(23, 117, 185);
+    padding: 11px;
+    padding-left: 25px;
+    margin-left: 38%;
+    margin-right: 38%;
+    font-family: Arial;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    height: 59px;
+    border-radius: 15px;
+}
+.gogo{
+    color: white;
+    background-color:rgb(162, 206, 237);
+    padding: 11px;
+    padding-left: 17px;
+    margin-left: 38%;
+    margin-right: 38%;
+    font-family: Arial;
+    margin-top: -17px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    height: 430px;
+    border-radius: 15px 15px 0px 0px;
+}
+#card{
+color: black;
+font-size: small;
+font-weight: bold;
+font-style: italic;
+}
+#title{
+    color: black;
+    font-size: medium;
+    
+    font-weight: bold;
+}
+.nini{
+    background-color:rgb(23, 117, 185);
+    padding-right: 23%;
+    text-align: center;
+    padding-left: 23%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-radius: 10px;
+    color: white;
+}
+.zak{
+    background-color:rgb(23, 117, 185);
+    padding-right: 15%;
+    text-align: center;
+    padding-left: 15%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    border-radius: 10px;
+    color: white;
+}
+#bibi{
+    color: black;
+    margin-left: 10%;
+    margin-top: -15%;
+}
+#king{    color: black;
+    margin-top: -15%;
+  margin-left: 7%;
+}
+.scroll{
+overflow-y: scroll;
+width:100px;
+height:100px;
+background:black;
+}
